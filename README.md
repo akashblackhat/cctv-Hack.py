@@ -32,4 +32,3 @@
           😈 ls
            
           😈 python cctv-Hack.py
-           
