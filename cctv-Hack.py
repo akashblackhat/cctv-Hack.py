@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
-#-*- coding: utf-8 -*-
-#github.com/AngelSecurityTeam/Cam-Hackers
+# AKASHBLACKHAT GitHub 
 
 import requests, re , colorama
 colorama.init()
