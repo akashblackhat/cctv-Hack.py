@@ -13,7 +13,6 @@ print("""
                       [😡]cctv hack[😡]
 * Author  : Akash Black Hat
 * GitHub  : https://github.com/akashblackhat
-* whatsapp: +91 8389020949
 \033[1;31m                                                                         
 \033[1;31m1) \033[1;37mUnited States                \033[1;31m31) \033[1;37mMexico                \033[1;31m61) \033[1;37mMoldova
 \033[1;31m2) \033[1;37mJapan                        \033[1;31m32) \033[1;37mFinland               \033[1;31m62) \033[1;37mNicaragua
