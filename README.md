@@ -1,6 +1,5 @@
 # cctv-Hacking
  
-![Screenshot 2022-09-19 081925](https://user-images.githubusercontent.com/88341460/191053358-6852e3ed-dcf1-4891-922a-c6e28ec5a9ab.jpg)
 
 # kal linux
            apt-get install python3
@@ -65,7 +64,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **hacking tools developer and android malware virous & has password cracker**
 
-- 📫 How to reach me **Akashram8090as@gmail.com**
+- 📫 How to reach me **anonumousm**
 
 - ⚡ Fun fact **I Am Ethical Hacker**
 -                                                                                                                                                                                                                                                                                                                                         
